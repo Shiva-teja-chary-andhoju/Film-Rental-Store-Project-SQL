@@ -1,11 +1,10 @@
 # Film-Rental-Store-Project-SQL
-----
+
 # Overview
 In this project, I analyzed a movie rental database using SQL queries to gain insights into the films, customers, and transactions in the database. 
 The database contains information about movies, actors, customers, rental transactions, and more. By writing SQL queries to answer a series of questions,
 I was able to explore trends and patterns in the data and draw conclusions about the movie rental industry.
 
-----
 # Questions Explored
 Using SQL, I wrote queries to answer questions such as:
 
@@ -22,7 +21,7 @@ Using SQL, I wrote queries to answer questions such as:
 * What is the average lifetime value of customers in different districts?
 * What is the total revenue and lowest payment ID for the Action movie category?
 * What is the top-performing movie in the Animation category?
-----
+
 # Conclusion
 Through the analysis of the movie rental database, several key insights were obtained. Firstly, the lowest replacement cost for a movie was $9.99, 
 and over 500 movies had replacement costs in the low price range of $9.99 to $19.99. Secondly, the Sports category had the most movies with 74 titles, 
