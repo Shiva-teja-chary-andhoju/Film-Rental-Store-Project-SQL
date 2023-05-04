@@ -1,5 +1,7 @@
 # Film-Rental-Store-Project-SQL
 
+![](welcome_image.png)
+
 # Overview
 In this project, I analyzed a movie rental database using SQL queries to gain insights into the films, customers, and transactions in the database. 
 The database contains information about movies, actors, customers, rental transactions, and more. By writing SQL queries to answer a series of questions,
