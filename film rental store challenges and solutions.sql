@@ -87,7 +87,7 @@ ORDER BY COUNT(*) DESC
 Question: How many addresses are that?
 Answer: 4
 
-SELECT * FROM address a
+SELECT COUNT(*) FROM address a
 LEFT JOIN customer c
 ON c.address_id = a.address_id
 WHERE c.first_name is null
@@ -109,7 +109,7 @@ ON a.address_id=c.address_id
 LEFT JOIN city ci
 ON ci.city_id=a.city_id
 GROUP BY city
-ORDER BY city DESC
+ORDER BY SUM(amount) DESC
 
 
 8.Task: Create an overview of the revenue (sum of amount) grouped by a column in the format "country, city".
