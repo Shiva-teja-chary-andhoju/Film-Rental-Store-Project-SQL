@@ -118,7 +118,7 @@ Question: Which country, city has the least sales?
 Answer: United States, Tallahassee with a total amount of 50.85.
 
 SELECT 
-country ||', ' ||city,
+co.country ||', ' ||ci.city,
 SUM(amount)
 FROM payment p
 LEFT JOIN customer c
@@ -129,7 +129,7 @@ LEFT JOIN city ci
 ON ci.city_id=a.city_id
 LEFT JOIN country co
 ON co.country_id=ci.country_id
-GROUP BY country ||', ' ||city
+GROUP BY co.country ||', ' ||ci.city
 ORDER BY 2 ASC
 
 
