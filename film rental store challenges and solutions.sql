@@ -150,7 +150,7 @@ GROUP BY staff_id
 10.Task: Create a query that shows average daily revenue of all Sundays.
 
 Question: What is the daily average revenue of all Sundays?
-Answer: 1410.65
+Answer: 1817.04
 
 SELECT 
 AVG(total)
