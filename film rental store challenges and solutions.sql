@@ -153,7 +153,7 @@ Question: What is the daily average revenue of all Sundays?
 Answer: 1817.04
 
 SELECT 
-AVG(total)
+ROUND(AVG(total),2)
 FROM 
 	(SELECT
 	 SUM(amount) as total,
