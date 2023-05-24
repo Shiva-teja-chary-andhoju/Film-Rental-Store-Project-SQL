@@ -238,7 +238,7 @@ LEFT JOIN film_category fc
 ON fc.film_id=f.film_id
 LEFT JOIN category c
 ON c.category_id=fc.category_id
-ORDER BY name
+ORDER BY name ASC,payment_id ASC
 
 14.Task: Create a list with the top overall revenue of a film title (sum of amount per title) for each category (name).
 
