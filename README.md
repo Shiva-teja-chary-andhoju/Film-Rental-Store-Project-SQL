@@ -34,6 +34,10 @@ Using SQL, I wrote queries to answer questions such as:
 * What is the total revenue and lowest payment ID for the Action movie category?
 * What is the top-performing movie in the Animation category?
 
+# SQL queries
+
+[Click Here](https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/blob/main/film%20rental%20store%20challenges%20and%20solutions.sql)
+
 # Conclusion
 Through the analysis of the movie rental database, several key insights were obtained. Firstly, the lowest replacement cost for a movie was $9.99, 
 and over 500 movies had replacement costs in the low price range of $9.99 to $19.99. Secondly, the Sports category had the most movies with 74 titles, 
