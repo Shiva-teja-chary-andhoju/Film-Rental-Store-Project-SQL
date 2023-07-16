@@ -12,12 +12,12 @@
 
 * pgAdmin
 
-# Overview
+## Overview
 In this project, I analyzed a movie rental database using SQL queries to gain insights into the films, customers, and transactions in the database. 
 The database contains information about movies, actors, customers, rental transactions, and more. By writing SQL queries to answer a series of questions,
 I was able to explore trends and patterns in the data and draw conclusions about the movie rental industry.
 
-# Questions Explored
+#3 Questions Explored
 Using SQL, I wrote queries to answer questions such as:
 
 * What is the lowest replacement cost of a movie in the database?
@@ -34,11 +34,11 @@ Using SQL, I wrote queries to answer questions such as:
 * What is the total revenue and lowest payment ID for the Action movie category?
 * What is the top-performing movie in the Animation category?
 
-# SQL queries
+## Solutions
 
 [Click Here](https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/blob/main/film%20rental%20store%20challenges%20and%20solutions.sql)
 
-# Conclusion
+## Conclusion
 Through the analysis of the movie rental database, several key insights were obtained. Firstly, the lowest replacement cost for a movie was $9.99, 
 and over 500 movies had replacement costs in the low price range of $9.99 to $19.99. Secondly, the Sports category had the most movies with 74 titles, 
 while Susan Davis appeared in the most movies with 54 appearances. Thirdly, the city of Cape Coral had the highest total sales with $221.55. Fourthly, 
