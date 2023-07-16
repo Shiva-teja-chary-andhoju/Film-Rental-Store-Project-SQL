@@ -17,7 +17,7 @@ In this project, I analyzed a movie rental database using SQL queries to gain in
 The database contains information about movies, actors, customers, rental transactions, and more. By writing SQL queries to answer a series of questions,
 I was able to explore trends and patterns in the data and draw conclusions about the movie rental industry.
 
-#3 Questions Explored
+## Questions Explored
 Using SQL, I wrote queries to answer questions such as:
 
 * What is the lowest replacement cost of a movie in the database?
