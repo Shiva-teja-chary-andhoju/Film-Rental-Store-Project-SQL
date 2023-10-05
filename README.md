@@ -3,7 +3,7 @@
 <img src="https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/assets/128379454/d845f1ed-6c97-4b72-91dc-b94f3ea9ee98" width="250" />
 
 
-## Teach Stack Used
+## Tech Stack Used
 
 <img src="https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/assets/128379454/3ca27078-eb92-4dab-a150-956bf83618e9" width="150" />
 
