@@ -1,15 +1,15 @@
-# Film-Rental-Store-Project-SQL
+# Film-Rental-Store-Project-SQL📽
 
-![](welcome_image.png)
+<img src="https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/assets/128379454/d845f1ed-6c97-4b72-91dc-b94f3ea9ee98" width="250" />
 
-## Built with
-### SQL Languages
+
+## Teach Stack Used
+
+<img src="https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/assets/128379454/3ca27078-eb92-4dab-a150-956bf83618e9" width="150" />
+
 
 * SQL
 * PostgreSQL
-
-### Tools
-
 * pgAdmin
 
 ## Overview
@@ -36,7 +36,7 @@ Using SQL, I wrote queries to answer questions such as:
 
 ## Solutions
 
-[Click Here](https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/blob/main/film%20rental%20store%20challenges%20and%20solutions.sql)
+👉 [Click Here](https://github.com/Shiva-teja-chary-andhoju/Film-Rental-Store-Project-SQL/blob/main/film%20rental%20store%20challenges%20and%20solutions.sql)
 
 ## Conclusion
 Through the analysis of the movie rental database, several key insights were obtained. Firstly, the lowest replacement cost for a movie was $9.99, 
